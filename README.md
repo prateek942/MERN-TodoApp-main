@@ -112,4 +112,4 @@ You may have to add your own path to the mongoDB server if you wish to see the d
 
 ## Contact
 
-Created by Cudi - feel free to contact me!
+Created by Prateek - feel free to contact me!
